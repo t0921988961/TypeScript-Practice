@@ -10,7 +10,7 @@ https://willh.gitbook.io/typescript-tutorial/introduction/hello-typescript
 Vs-Code extension Quokka.js
 
 Run on save for current file
-win ctrl+shift+r
+win => ctrl+shift+r
 
 stope all
-win ctrl+shift+s
+win => ctrl+shift+s
